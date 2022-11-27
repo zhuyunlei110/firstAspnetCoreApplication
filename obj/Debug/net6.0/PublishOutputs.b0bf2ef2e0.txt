@@ -1,0 +1,7 @@
+/home/andy/firstcoresample/myFirstWebApplication/bin/Debug/net6.0/publish/myFirstWebApplication
+/home/andy/firstcoresample/myFirstWebApplication/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/andy/firstcoresample/myFirstWebApplication/bin/Debug/net6.0/publish/appsettings.json
+/home/andy/firstcoresample/myFirstWebApplication/bin/Debug/net6.0/publish/myFirstWebApplication.dll
+/home/andy/firstcoresample/myFirstWebApplication/bin/Debug/net6.0/publish/myFirstWebApplication.deps.json
+/home/andy/firstcoresample/myFirstWebApplication/bin/Debug/net6.0/publish/myFirstWebApplication.runtimeconfig.json
+/home/andy/firstcoresample/myFirstWebApplication/bin/Debug/net6.0/publish/myFirstWebApplication.pdb
